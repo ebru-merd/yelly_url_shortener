@@ -2,6 +2,7 @@
 <hr>
 # NodeJS, EJS, ExpressJS, Mongoose, MongoDB, PassportJS, Express-Session
 <hr>
-![image](https://github.com/ebru-merd/yelly_url_shortener/assets/74205476/fb46ce9a-a395-4029-8e47-a66bab47a27b)
-![image](https://github.com/ebru-merd/yelly_url_shortener/assets/74205476/44ba1638-7fc0-41bb-ac93-a37f9f1a26d8)
-![image](https://github.com/ebru-merd/yelly_url_shortener/assets/74205476/faab343e-deed-48a2-be88-fe6e128f7f00)
+<img width="1676" alt="yelly1" src="https://github.com/ebru-merd/yelly_url_shortener/assets/74205476/4f9a5d93-124a-43e0-8c19-61840f4d5ebf">
+<img width="1670" alt="yelly2" src="https://github.com/ebru-merd/yelly_url_shortener/assets/74205476/e8ca4a82-21a6-4101-b4d8-5ce7589b5ee3">
+<img width="1082" alt="yelly3" src="https://github.com/ebru-merd/yelly_url_shortener/assets/74205476/974dfae5-7863-46bc-bc1a-77d5ad5a0263">
+
